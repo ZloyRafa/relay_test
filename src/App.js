@@ -1,4 +1,5 @@
-// your-app-name/src/App.js
+
+
 import React from 'react';
 import './App.css';
 import fetchGraphQL from './fetchGraphQL';
